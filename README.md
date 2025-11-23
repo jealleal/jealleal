@@ -1,5 +1,5 @@
 ## Hi there 👋
-[url=https://mynickname.com/id1838545][img]https://mynickname.com/forum4t0/QuasarLabs.gif[/img][/url]
+[img]https://mynickname.com/forum4t0/QuasarLabs.gif[img]
 <!--
 **jealleal/jealleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
