@@ -30,7 +30,7 @@ Starting over isn't easy, but it's an opportunity to build something even better
 ## 🔰 Rights & Identity
 
 <div align="center">
-  <img src="https://mynickname.com/forum4t0/QuasarLabs.gif" alt="QuasarLabs" width="400" />
+  <img src="https://mynickname.com/forum4t9/QuasarLabs.gif" alt="QuasarLabs" width="400" />
   <img src="https://mynickname.com/forum4t9/jealleal.gif" alt="Jealleal" width="400" />
 </div>
 
