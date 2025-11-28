@@ -4,7 +4,7 @@ This is me, jealleal
 Welcome to my new github profile (old banned)
 ⚒️Just making games⚒️
 
-Rights:
+## Rights:
 ![QuasarLabs](https://mynickname.com/forum4t0/QuasarLabs.gif)
 ![Jealleal](https://mynickname.com/forum4t0/jealleal.gif)
 
