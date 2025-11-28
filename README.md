@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi guys
 
+This is me, jealleal
+Welcome to my new github profile (old banned)
+⚒️Just making games⚒️
+
+Rights:
 ![QuasarLabs](https://mynickname.com/forum4t0/QuasarLabs.gif)
+![Jealleal](https://mynickname.com/forum4t0/jealleal.gif)
 
 <!--
 **jealleal/jealleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
