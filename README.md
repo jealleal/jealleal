@@ -6,6 +6,10 @@
 
 ---
 
+## 🚀 **Fullstack dev | Web dev | Roblox Dev**
+
+*3+ years of transforming complex challenges into elegant technical solutions*
+
 ### 💡 **What I Do**
 I develop and create decentralized ecosystems that push the boundaries of Roblox technology. From simple, throw-together projects to serious gaming projects, I transform crazy ideas from my head into finished projects.
 
