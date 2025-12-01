@@ -8,8 +8,6 @@
 
 ---
 
----
-
 ## 🚀 **Fullstack dev | Web dev | Roblox Dev**
 
 *3+ years of transforming complex challenges into elegant technical solutions*
