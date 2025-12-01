@@ -44,37 +44,17 @@ I develop and create decentralized ecosystems that push the boundaries of Roblox
 - **[QuasarHub](https://t.me/QuasarAndScripts/275)** - A modern admin panel for your games
 - **[QMCC](https://t.me/QuasarAndScripts/280)** - A checker for your cookies🍪🍪
 
----
-
-## 📊 **By The Numbers**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=VZXdev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VZXdev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🎯 **Current Focus**
 
 ```typescript
 const currentWork = {
-  role: "Senior Software Engineer @ ValiantCodes",
+  role: "Cookie software",
   focus: [
-    "DeFi protocol development",
-    "Smart contract security audits", 
-    "Scalable cloud architecture",
-    "Web3 gaming platforms"
+    "Roblox Cookie Checker",
+    "Roblox botting tools", 
+    "Roblox verify script"
   ],
-  location: "Dubai, UAE",
+  location: "Vitebsk, BEL",
   availability: "Open to exciting opportunities"
 }
 ```
