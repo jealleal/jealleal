@@ -21,26 +21,27 @@ I develop and create decentralized ecosystems that push the boundaries of Roblox
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LuaU](https://img.shields.io/badge/Lua-3776AB?style=for-the-badge&logo=lua&logoColor=white)
+![LuaU](https://img.shields.io/badge/Lua-1560BD?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
 
 ## 🏗️ **Featured Projects**
 
-### **🔥 DeFi & Trading Platforms**
-- **SlingShot** - Automated Binance trading bot with advanced strategy execution
-- **Osool** - Binance index token tracking top 10 coins via PancakeSwap
-- **MyRaffleHood** - Decentralized raffle platform across BSC & Solana
+### **🔥 WebSites**
+- **casewithrobux** - Open Robux cases
+- **friendscape** - See your friends' Roblox chains in real time
+- **QuasarLabs** - The main website of our development team
 
-### **🎮 Gaming & NFTs**
-- **Moonbite** - Solana NFT marketplace with wallet integration
-- **BattleArenaPro** - Solana-based Challenge-to-Earn gaming platform
-- **Bunny Bits** - Telegram clicker game (Hamster Kombat style)
+### **🕹️Roblox games**
+- **Infinity Donate** - A game where you can donate robux to other people
+- More coming soon)
 
-### **🏦 Enterprise Blockchain**
-- **Universal Assets Bank** - Fireblocks integration with ACL systems
-- **XENODE** - Geo-distributed Solana node infrastructure
-- **BitcoinFansClub** - Multi-stage ICO with referral system
+### **⚒️Roblox software**
+- **[Quasar MultiTool](https://t.me/QuasarAndScripts/279)** - A multi-tool for managing your account cookies
+- **[Quasar Injector](https://t.me/QuasarAndScripts/75)** - A C++-based Lua script injector with a modern design.
+- **[Quasar - UI Version](https://t.me/QuasarAndScripts/278)** - A multi-tool for managing your account cookies but with UI
+- **[QuasarHub](https://t.me/QuasarAndScripts/275)** - A modern admin panel for your games
+- **[QMCC](https://t.me/QuasarAndScripts/280)** - A checker for your cookies🍪🍪
 
 ---
 
@@ -50,10 +51,10 @@ I develop and create decentralized ecosystems that push the boundaries of Roblox
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=talha59&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=VZXdev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha59&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VZXdev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -83,27 +84,12 @@ const currentWork = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha59)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha59@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/971528683248)
+[![Telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qwsrb)
 
 </div>
-
----
-
-## 💬 **What I'm Known For**
-
-> *"Give me a problem, and I'll architect a solution that scales from prototype to production."*
-
-- **Smart Contract Security** - Built secure tokenomics for multiple successful projects
-- **Cloud Architecture** - Designed distributed systems handling millions of transactions  
-- **Rapid Prototyping** - Turn complex ideas into MVP in days, not months
-- **Cross-Chain Expertise** - Ethereum, Solana, BSC, and beyond
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-*Ready to build the future of Web3? Let's connect! 🚀*
+*Ready to build the future of roblox? Let's connect! 🚀*
