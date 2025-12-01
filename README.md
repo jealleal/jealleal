@@ -1,5 +1,7 @@
 # 👋 Hello World, I'm jealleal!
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Blockchain+%26+Web3+Engineer;Roblox+Developer+XD;cool+young+dev;Full+Stack+Problem+Solver" alt="Typing SVG" />
+</div>
 Welcome to my creative space! I'm a passionate game developer who brings ideas to life through code and creativity. After my previous account was banned, I'm starting fresh with even more energy and exciting projects!
 
 ## 🎮 What I Do
