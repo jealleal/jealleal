@@ -84,7 +84,7 @@ const currentWork = {
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qwsrb)
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qwsrb)
 
 </div>
 
