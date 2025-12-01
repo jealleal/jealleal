@@ -1,5 +1,5 @@
 ## Hi there, I'm jealleal👋
-Young dev from Vitebsk🇧🇾
+###Young dev from Vitebsk 🇧🇾
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Python%2C%20%D0%A1PP%2CC%23%2CLuaU+%26+JS+dev;Roblox%20Developer%20XD;cool%20young%20dev;Full%20Stack%20Problem%20Solver" alt="Typing SVG" />
