@@ -46,6 +46,8 @@ I develop and create decentralized ecosystems that push the boundaries of Roblox
 - **[QuasarHub](https://t.me/QuasarAndScripts/275)** - A modern admin panel for your games
 - **[QMCC](https://t.me/QuasarAndScripts/280)** - A checker for your cookies🍪🍪
 
+---
+
 ## 🎯 **Current Focus**
 
 ```typescript
@@ -76,3 +78,5 @@ const currentWork = {
 </div>
 
 *Ready to build the future of roblox? Let's connect! 🚀*
+
+---
