@@ -1,3 +1,5 @@
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" />
 </div>
@@ -76,4 +78,5 @@ const currentWork = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
 ---
