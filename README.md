@@ -21,7 +21,7 @@ I develop and create decentralized ecosystems that push the boundaries of Roblox
 
 ## 🛠️ **Technical Arsenal**
 
-### **Full Stack Development**
+### **Fullstack Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
