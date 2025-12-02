@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+</div>
+
 # Hi there, I'm jealleal👋
 
 ---
@@ -76,7 +80,4 @@ const currentWork = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
-
-*Ready to build the future of roblox? Let's connect! 🚀*
-
 ---
