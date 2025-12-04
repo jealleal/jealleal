@@ -27,7 +27,8 @@ I develop and create decentralized ecosystems that push the boundaries of Roblox
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LuaU](https://img.shields.io/badge/Lua-1560BD?style=for-the-badge&logo=lua&logoColor=white)
-![CPP](https://img.shields.io/badge/CPP-ffffff?style=for-the-badge&logo=cplusplus&logoColor=black)
+![CPP](https://img.shields.io/badge/C++-FAF0E6?style=for-the-badge&logo=cplusplus&logoColor=black)
+![CPP](https://img.shields.io/badge/C#-8B008B?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
