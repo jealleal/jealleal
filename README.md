@@ -1,8 +1,4 @@
-<h1 align="center">0x256 / experienced coder </h1>
-
-<h3 align="center">aka jealleal </h3>
-
-###
+<h1 align="center">0x256</h1>
 
 ###
 
