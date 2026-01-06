@@ -15,9 +15,6 @@
   <img width="12" />
 </div>
 
-
----
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
