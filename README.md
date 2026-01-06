@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&lines=FullStack+Developer" height="40" alt=""  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&vCenter=true&lines=FullStack+Developer" alt=""  />
 </div>
 
 ###
