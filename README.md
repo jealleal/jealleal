@@ -16,7 +16,7 @@
 </div>
 
 
-###
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -26,9 +26,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
+---
+
 <p href="Sandwich" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/1158811379017449473?bg=0d1117&idleMessage=%D0%A1%D0%BF%D0%B8%D1%82&showDisplayName=true&borderRadius=10>
 </p>
+
+---
 
 <p align="center">
   <picture>
