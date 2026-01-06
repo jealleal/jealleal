@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=luau" height="40" alt="luau logo"  />
   <img width="12" />
 </div>
 
@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=roblox" height="40" alt="roblox logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Roblox_Studio_icon_2025.svg/2048px-Roblox_Studio_icon_2025.svg.png" height="40" alt="roblox logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
