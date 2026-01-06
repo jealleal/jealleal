@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
 
 fullstack developer
 18m+ visits in roblox
