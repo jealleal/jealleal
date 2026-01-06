@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=FullStack+Developer" alt="Typing SVG" /></a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
