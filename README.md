@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  
+<img width="1920" height="514" alt="изображение" src="https://github.com/user-attachments/assets/1548b9b1-ce5b-4967-b2b4-62270b3fc8a7" />
+
+</div>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
