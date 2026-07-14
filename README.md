@@ -3,12 +3,6 @@
 ###
 
 <div align="center">
-  
-<img width="1920" height="514" alt="изображение" src="https://github.com/user-attachments/assets/1d65f2db-3dd9-4c38-8fed-e36ee5b9337f" />
-
-</div>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -16,8 +10,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="luau logo"  />
   <img width="12" />
